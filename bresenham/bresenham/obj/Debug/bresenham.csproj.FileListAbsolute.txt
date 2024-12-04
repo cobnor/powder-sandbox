@@ -1,0 +1,29 @@
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\bin\Debug\bresenham.exe.config
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\bin\Debug\bresenham.exe
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\bin\Debug\bresenham.pdb
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\obj\Debug\bresenham.csprojAssemblyReference.cache
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\obj\Debug\bresenham.Form1.resources
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\obj\Debug\bresenham.Properties.Resources.resources
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\obj\Debug\bresenham.csproj.GenerateResource.cache
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\obj\Debug\bresenham.csproj.CoreCompileInputs.cache
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\obj\Debug\bresenham.exe
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\bresenham\bresenham\obj\Debug\bresenham.pdb
+D:\coursework\bresenham\bresenham\bin\Debug\bresenham.exe.config
+D:\coursework\bresenham\bresenham\bin\Debug\bresenham.exe
+D:\coursework\bresenham\bresenham\bin\Debug\bresenham.pdb
+D:\coursework\bresenham\bresenham\obj\Debug\bresenham.csprojAssemblyReference.cache
+D:\coursework\bresenham\bresenham\obj\Debug\bresenham.Form1.resources
+D:\coursework\bresenham\bresenham\obj\Debug\bresenham.Properties.Resources.resources
+D:\coursework\bresenham\bresenham\obj\Debug\bresenham.csproj.GenerateResource.cache
+D:\coursework\bresenham\bresenham\obj\Debug\bresenham.exe
+D:\coursework\bresenham\bresenham\obj\Debug\bresenham.pdb
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\bin\Debug\bresenham.exe.config
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\bin\Debug\bresenham.exe
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\bin\Debug\bresenham.pdb
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\obj\Debug\bresenham.csprojAssemblyReference.cache
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\obj\Debug\bresenham.Form1.resources
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\obj\Debug\bresenham.Properties.Resources.resources
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\obj\Debug\bresenham.csproj.GenerateResource.cache
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\obj\Debug\bresenham.csproj.CoreCompileInputs.cache
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\obj\Debug\bresenham.exe
+\\admin5400\shares\redirected$\Students\Documents\vb32\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\coursework\bresenham\bresenham\obj\Debug\bresenham.pdb
